@@ -8,8 +8,8 @@ import lombok.NoArgsConstructor;
 @Entity
 @Table(name = "pakn_form")
 @Data
-@NoArgsConstructor
-@AllArgsConstructor
+//@NoArgsConstructor
+//@AllArgsConstructor
 public class PaknForm {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)

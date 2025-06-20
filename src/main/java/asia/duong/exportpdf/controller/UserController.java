@@ -5,7 +5,7 @@ import asia.duong.exportpdf.entities.User;
 import asia.duong.exportpdf.handler.PaknPdfGenerator;
 import asia.duong.exportpdf.handler.PdfGenerator;
 import asia.duong.exportpdf.repository.PaknRepository;
-import asia.duong.exportpdf.service.user.UserService;
+import asia.duong.exportpdf.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.InputStreamResource;
 import org.springframework.http.HttpHeaders;

@@ -1,4 +1,4 @@
-package asia.duong.exportpdf.service.user;
+package asia.duong.exportpdf.service;
 
 import asia.duong.exportpdf.entities.User;
 
